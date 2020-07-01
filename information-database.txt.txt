@@ -1,0 +1,16 @@
+Craete database :
+
+shopping
+
+dump table is : shopping .
+
+Create Username And password :
+
+*************************************************
+username / email : admin
+Password : Test@123
+
+////////////////////////////////////////////////////////////////////////
+
+admin username : admin
+password : Test@123
